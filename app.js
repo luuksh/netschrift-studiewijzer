@@ -1,5 +1,5 @@
 'use strict';
-let currentDocument = null, currentRelease = '', checking = false, updatedAt = '';
+let currentDocument = null, currentRelease = '', checking = false, updatedAt = '', appHash = ''; 
 const statusNode = document.getElementById('status');
 function element(tag, value) { const el = document.createElement(tag); if(value) el.textContent=value; return el; }
 function render() {
@@ -26,6 +26,9 @@ async function refresh(){
     const response=await fetch('version.json?check='+Date.now(),{cache:'no-store'});
     if(!response.ok)throw Error('manifest');const version=await response.json();
     if(!/^guide-[a-f0-9]{64}\.json$/.test(version.data))throw Error('bestand');
+    if(appHash && appHash !== version.hashes['app.js']){const url=new URL(location.href);url.searchParams.set('v',version.release);location.replace(url);return;}
+    appHash=version.hashes['app.js'];
+    document.querySelector('link[rel=stylesheet]').href='style.css?v='+version.hashes['style.css'];
     if(version.release!==currentRelease){
       const result=await fetch(version.data,{cache:'no-store'});if(!result.ok)throw Error('gegevens');
       const bytes=await result.arrayBuffer();const digest=Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',bytes))).map(x=>x.toString(16).padStart(2,'0')).join('');
