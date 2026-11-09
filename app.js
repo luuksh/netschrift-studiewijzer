@@ -5,11 +5,15 @@ function element(tag, value) { const el = document.createElement(tag); if(value)
 function render() {
   document.querySelector('footer').textContent='Schooljaar '+currentDocument.schoolYear+' · Alleen werk dat in alle betrokken klassen van jouw leerjaar is behandeld.';
   const grades = currentDocument.grades;
-  const selected = new URLSearchParams(location.search).get('leerjaar') || grades[0]?.grade;
+  const selected = new URLSearchParams(location.search).get('leerjaar');
+  document.body.classList.toggle('grade-picker', !selected);
+  document.querySelector('h1').textContent = selected ? 'Dit hoort in je netschrift' : 'Jouw netschrift';
+  document.querySelector('header > p:not(.eyebrow)').textContent = selected ? 'De opdrachten uit de lessen die we hebben gehad.' : 'Kies je leerjaar';
   const grade = grades.find(g=>g.grade===selected);
   const nav = document.querySelector('nav'); nav.replaceChildren();
   for(const g of grades){const a=element('a','Leerjaar '+g.grade);a.href='?leerjaar='+g.grade;if(g===grade)a.setAttribute('aria-current','page');nav.append(a);}
   const content=document.getElementById('content');content.replaceChildren();
+  if(!selected)return;
   if(!grade){content.append(element('p','Dit leerjaar is niet beschikbaar.'));return;}
   if(!grade.lessons.length){content.append(element('p','Er zijn nog geen opdrachten vrijgegeven voor dit leerjaar.'));return;}
   const projects=new Map();
