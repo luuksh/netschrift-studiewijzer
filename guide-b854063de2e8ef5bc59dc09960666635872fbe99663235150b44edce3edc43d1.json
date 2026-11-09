@@ -1,0 +1,494 @@
+{
+  "grades": [
+    {
+      "grade": "1",
+      "lessons": [
+        {
+          "items": [
+            "Netschrift bevat leeslog: datum, boek, gelezen bladzijden en een korte leesreactie of vraag."
+          ],
+          "lesson": "Leesmeters",
+          "project": "Leesmeters",
+          "titles": [
+            "Mijn leeslog"
+          ]
+        },
+        {
+          "items": [
+            "Mijn smaak: twee interesses of verhaalvoorkeuren en één persoonlijk voorbeeld.",
+            "Een tip: een titel of zoekrichting van mijn partner, met de reden achter de tip.",
+            "Mijn reactie: dit wil ik wel / niet proberen, omdat …"
+          ],
+          "lesson": "Leesmeters 1 - Jouw verhaal, onze boekentips",
+          "project": "Leesmeters",
+          "titles": [
+            "Mijn leessmaak",
+            "Een boekentip voor mij"
+          ]
+        },
+        {
+          "items": [
+            "Groepje en terugafspraak genoteerd.",
+            "Tipgever géén klasgenoot: naam + paraaf; aanrader + 3-5 steekwoorden.",
+            "Flapdetail: 1 eigen zin + 3-5 flapwoorden. Keuze: 1 zin.",
+            "Schoolbiebboek mee terug: geleend met je pasje, inleverdatum genoteerd.",
+            "Geen pasje? Leen met toestemming op een klasgenoots pasje; zet later over naar je eigen pasje."
+          ],
+          "lesson": "Leesmeters 2 - Boekenrace: van tip naar keuze",
+          "project": "Leesmeters",
+          "titles": [
+            "Mijn boekentip en bibliotheekroute"
+          ]
+        },
+        {
+          "items": [
+            "Verhaallijn, perspectief en genre met voorbeelden.",
+            "Uitleg met twee verbonden tekstplaatsen en het effect van een formulering.",
+            "Een vraag en een gezamenlijk inzicht uit het gesprek."
+          ],
+          "lesson": "Leesmeters - samen een verhaal begrijpen",
+          "project": "Leesmeters",
+          "titles": [
+            "Noor en de sleutel"
+          ]
+        },
+        {
+          "items": [
+            "Titel: Ik & Nederlands - september 2026.",
+            "Je schrijft wat Nederlands voor jou nu betekent.",
+            "Je noteert je top 3 boeken, verhalen, strips, graphic novels of luisterboeken.",
+            "Je schrijft waar je al goed in bent bij Nederlands.",
+            "Je schrijft waar je dit jaar beter in wilt worden.",
+            "Je pagina is verzorgd, overzichtelijk en persoonlijk."
+          ],
+          "lesson": "Les 1 - Welkom bij Nederlands",
+          "project": "Startlessen Nederlands jaarlaag 1",
+          "titles": [
+            "Ik & Nederlands - september 2026"
+          ]
+        },
+        {
+          "items": [
+            "Je voorkant is ontworpen of duidelijk begonnen.",
+            "Op de voorkant staat NEDERLANDS duidelijk zichtbaar.",
+            "Je naam en klas zijn goed vindbaar.",
+            "Je titelblad bevat NETSCHRIFT NEDERLANDS, je naam, klas en schooljaar.",
+            "Je ontwerp laat iets van jou zien en iets dat bij Nederlands past.",
+            "Je gebruikt minimaal één ontwerptruc: herhaling, iets groots, beperkte kleuren of een kader.",
+            "Lever je netschrift deze les of de volgende les in bij je docent om te laten nakijken."
+          ],
+          "lesson": "Les 2 - Maak het van jou",
+          "project": "Start Nederlands 1",
+          "titles": [
+            "Nederlands",
+            "Netschrift Nederlands",
+            "Mijn ontwerpkeuzes"
+          ]
+        },
+        {
+          "items": [
+            "Titel: Ik & Nederlands - september 2026.",
+            "Je schrijft wat Nederlands voor jou nu betekent.",
+            "Je noteert je top 3 boeken, verhalen, strips, graphic novels of luisterboeken.",
+            "Je schrijft waar je al goed in bent bij Nederlands.",
+            "Je schrijft waar je dit jaar beter in wilt worden.",
+            "Je pagina is verzorgd, overzichtelijk en persoonlijk."
+          ],
+          "lesson": "Les 1 - Welkom bij Nederlands",
+          "project": "Start Nederlands 1",
+          "titles": [
+            "Ik & Nederlands - september 2026"
+          ]
+        },
+        {
+          "items": [
+            "Een paginagroot logo als voorblad voor Taal(ver)kenners, met duidelijke projecttitel.",
+            "Antwoorden in kernwoorden.",
+            "Titel en 4-5 zinnen: betekenis en situatie.",
+            "Bij interview: naam en handtekening van de geïnterviewde.",
+            "Eén verbetering; rubriektitel en paginanummer."
+          ],
+          "lesson": "Les 1: Welke taal neem jij mee?",
+          "project": "Taal(ver)kenners",
+          "titles": [
+            "TAAL(VER)KENNERS",
+            "Mijn taal thuis"
+          ]
+        },
+        {
+          "items": [
+            "Interviewaantekeningen: taal, zinnetje, betekenis, hoe geleerd en wanneer gebruikt.",
+            "Bij interview: de geïnterviewde heeft zelf naam en handtekening gezet.",
+            "Een stukje van 6-8 zinnen: het geleerde zinnetje, de betekenis en het persoonlijke verhaal erbij; anders mijn eigen voorbeeld.",
+            "Eén zichtbare verbetering; titel en paginanummer."
+          ],
+          "lesson": "Les 2: Talen zijn familie",
+          "project": "Taal(ver)kenners",
+          "titles": [
+            "Mijn mini-taalles: interviewvragen",
+            "Mijn mini-taalles: antwoorden",
+            "Wat ik leerde van een anderstalige spreker"
+          ]
+        },
+        {
+          "items": [
+            "Pyjama of kok: de uitleg van het bord onder Echt.",
+            "Een verzonnen ontstaansverhaal van 6-8 zinnen met het label Verzonnen.",
+            "Een eerste taalvondst: voorbeeld en wat mij opvalt.",
+            "Eén zichtbare verbetering; titel en paginanummer."
+          ],
+          "lesson": "Les 3: Waar komt dat woord vandaan?",
+          "project": "Taal(ver)kenners",
+          "titles": [
+            "Mijn taalvondsten",
+            "Eén woord, twee verklaringen"
+          ]
+        },
+        {
+          "items": [
+            "Een quasi-Afrikaanse haiku met 5-7-5 lettergrepen en minstens vier echte woorden.",
+            "Een Nederlandse vertaling; echte woorden onderstreept, eigen verzinsels met een ster.",
+            "Een miniwoordenboek: vier echte woorden en één of twee verzinsels met betekenis.",
+            "Eén zichtbare verbetering; titel en paginanummer. Een gemarkeerde zin laat mijn gekozen verbetering zien; mijn volgende stap is mondeling besproken."
+          ],
+          "lesson": "Les 4: Vertrouwd en toch anders",
+          "project": "Taal(ver)kenners",
+          "titles": [
+            "Mijn quasi-Afrikaanse haiku"
+          ]
+        },
+        {
+          "items": [
+            "Een eigen verhaal van 6-8 zinnen in oefen-Middelnederlands.",
+            "Minstens drie schrijftips toegepast; voorbeelden daarvan onderstreept.",
+            "Een moderne vertaling met dezelfde betekenis.",
+            "Eén verbetering na het voorlezen; titel en paginanummer. Een gemarkeerde zin laat mijn gekozen verbetering zien; mijn volgende stap is mondeling besproken."
+          ],
+          "lesson": "Les 5: Nederlands verandert",
+          "project": "Taal(ver)kenners",
+          "titles": [
+            "Mijn Middelnederlandse avontuur"
+          ]
+        },
+        {
+          "items": [
+            "Een taalstukje van 8-10 zinnen met titel, voorbeeld en uitleg.",
+            "Een uitgewerkte taalvondst, uit eigen aantekeningen of van het bord.",
+            "Een korte inhoudsopgave van mijn gemaakte bijdragen.",
+            "Eén zichtbare verbetering; titel en paginanummer.",
+            "Lever je netschrift deze les of de volgende les in bij je docent om te laten nakijken. Een gemarkeerde zin laat mijn gekozen verbetering zien; mijn volgende stap is mondeling besproken."
+          ],
+          "lesson": "Les 6: Mijn bijzondere taalvondst",
+          "project": "Taal(ver)kenners",
+          "titles": [
+            "Mijn taalvondst uitgelegd"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": "3",
+      "lessons": [
+        {
+          "items": [
+            "Een paginagroot logo als voorblad voor Walewein, met duidelijke projecttitel.",
+            "Titelpagina en verwachting met luistercultuur en ridderlijke vaardigheden buiten strijd."
+          ],
+          "lesson": "Les 1 Walewein: Het zwevende schaakspel",
+          "project": "Faalfestival · Walewein",
+          "titles": [
+            "WALEWEIN",
+            "Mijn verwachtingen van Waleweins wereld"
+          ]
+        },
+        {
+          "items": [
+            "Kaart met verhaalplekken en als eigen aanvulling een voedselbos en een reizigersklooster."
+          ],
+          "lesson": "Les 2 Walewein: De wildernis",
+          "project": "Faalfestival · Walewein",
+          "titles": [
+            "De wereldkaart van Walewein"
+          ]
+        },
+        {
+          "items": [
+            "Vijf ridderregels, waaronder eerlijk strijden en vrijgevigheid; twee verbonden aan Waleweins daden. Riddertekening en kaart bijgewerkt."
+          ],
+          "lesson": "Les 3 Walewein: Ridders",
+          "project": "Faalfestival · Walewein",
+          "titles": [
+            "Mijn riddercode"
+          ]
+        },
+        {
+          "items": [
+            "Vandaag: een vertaling van de vier regels over Ysabele (3420-3423) in modern Nederlands. Versieren mag als je klaar bent."
+          ],
+          "lesson": "Les 4 Walewein: Stemmen van 750 jaar geleden",
+          "project": "Faalfestival · Walewein",
+          "titles": [
+            "Ysabele in Amoraens woorden"
+          ]
+        },
+        {
+          "items": [
+            "Mijn smaak: twee interesses of verhaalvoorkeuren en één persoonlijk voorbeeld.",
+            "Een tip: een titel of zoekrichting van mijn partner, met de reden achter de tip.",
+            "Mijn reactie: dit wil ik wel / niet proberen, omdat …"
+          ],
+          "lesson": "Leesmeters 1 - Jouw verhaal, onze boekentips",
+          "project": "Leesmeters",
+          "titles": [
+            "Mijn leessmaak",
+            "Een boekentip voor mij"
+          ]
+        },
+        {
+          "items": [
+            "Groepje en terugafspraak genoteerd.",
+            "Tipgever géén klasgenoot: naam + paraaf; aanrader + 3-5 steekwoorden.",
+            "Flapdetail: 1 eigen zin + 3-5 flapwoorden. Keuze: 1 zin.",
+            "Schoolbiebboek mee terug: geleend met je pasje, inleverdatum genoteerd.",
+            "Geen pasje? Leen met toestemming op een klasgenoots pasje; zet later over naar je eigen pasje."
+          ],
+          "lesson": "Leesmeters 2 - Boekenrace: van tip naar keuze",
+          "project": "Leesmeters",
+          "titles": [
+            "Mijn boekentip en bibliotheekroute"
+          ]
+        },
+        {
+          "items": [
+            "Verhaallijn, perspectief en genre met voorbeelden.",
+            "Uitleg met twee verbonden tekstplaatsen en het effect van een formulering.",
+            "Een vraag en een gezamenlijk inzicht uit het gesprek."
+          ],
+          "lesson": "Leesmeters - samen een verhaal begrijpen",
+          "project": "Leesmeters",
+          "titles": [
+            "Noor en de sleutel"
+          ]
+        },
+        {
+          "items": [
+            "Titel: Start Nederlands 3 - leer toch falen.",
+            "De basisindeling van mijn netschrift staat klaar.",
+            "Mijn startpagina bevat wat ik al kan, waar ik op vastloop en wat ik wil proberen.",
+            "Een verzorgde eigen indeling met ruimte voor latere ontwikkeling."
+          ],
+          "lesson": "Startles 1: Welkom terug - leer toch falen",
+          "project": "Start Nederlands 3",
+          "titles": [
+            "Start Nederlands 3 - leer toch falen"
+          ]
+        },
+        {
+          "items": [
+            "Titel: Kennismakingsinterview, datum en de namen van interviewer en geïnterviewde.",
+            "Werk je eigen antwoorden van het ontvangen kladblaadje uit in vraag-en-antwoordvorm.",
+            "Neem je drie startvragen en minstens twee vervolgvragen met volledige antwoorden op.",
+            "Schrijf verzorgd, gebruik witruimte en werk je inhoudsopgave bij.",
+            "Lever je netschrift deze les of de volgende les in bij je docent om te laten nakijken."
+          ],
+          "lesson": "Startles 2: Elkaar interviewen",
+          "project": "Start Nederlands 3",
+          "titles": [
+            "Kennismakingsinterview, datum en de namen van interviewer en geïnterviewde"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": "4",
+      "lessons": [
+        {
+          "items": [
+            "Een paginagroot logo als voorblad voor Technologie, met duidelijke projecttitel.",
+            "Een uitleg in 3 zinnen van moeite, leren, autonomie en trots met verwijzing naar een alinea.",
+            "Een persoonlijke ervaring in 4-5 zinnen: inspanning, resultaat en wat je over jezelf leerde.",
+            "Een voorlopig levensmotto met 2-3 zinnen uitleg over technologie en eigen inspanning.",
+            "Een concrete keuze: waarvoor gebruik je technologie en wat blijf je zelf oefenen?"
+          ],
+          "lesson": "Les 1: Wie zit er aan het stuur?",
+          "project": "Technologie",
+          "titles": [
+            "TECHNOLOGIE",
+            "Mijn keuze: technologie en eigen inspanning"
+          ]
+        },
+        {
+          "items": [
+            "Drie korte leesnotities: waarschuwing, belang en controle; aanvullen na de gezamenlijke terugblik.",
+            "Een AI-vergunning van circa 120-160 woorden: besluit en twee redenen met twee onthouden artikelideeën in eigen woorden.",
+            "Drie concrete voorwaarden: wie controleert, wie stopt en wie fouten herstelt.",
+            "Een bezwaar met antwoord, één verbetering na feedback en een slotzin over je stem."
+          ],
+          "lesson": "Les 2: AI: wie mag op de rem?",
+          "project": "Technologie",
+          "titles": [
+            "Mijn besluit over een AI-directeur",
+            "Leesnotities: waarschuwing, belang en controle",
+            "Mijn rol in de AI-toelatingsraad",
+            "Mijn AI-vergunning"
+          ]
+        },
+        {
+          "items": [
+            "Een analoog leven: een tekst van 80-120 woorden over een wereld zonder schermen.",
+            "Een concrete beschrijving van je dag en een toegelicht oordeel: leuker of minder leuk in de eerste week én na een jaar.",
+            "Een idee uit het artikel verbonden aan je antwoord."
+          ],
+          "lesson": "Les 3: De pauzeknop",
+          "project": "Technologie",
+          "titles": [
+            "Een analoog leven"
+          ]
+        },
+        {
+          "items": [
+            "Een ontwerp voor aanbevelingen in een denkbeeldige app: drie concrete voorbeelden met uitleg, zeggenschap voor de gebruiker, ruimte voor toeval en één mogelijk nadeel. Verbind je afweging aan een idee uit het fragment."
+          ],
+          "lesson": "Les 4: Ruimte voor toeval",
+          "project": "Technologie",
+          "titles": [
+            "Mijn app: aanbevelingen en toeval"
+          ]
+        },
+        {
+          "items": [
+            "Ik heb in 6-10 zinnen verteld of ik dit zou doen en waarom.",
+            "Ik heb met één voorbeeld uitgelegd of mijn telefoon helpt of juist niet."
+          ],
+          "lesson": "Les 5: Leve het toeval",
+          "project": "Technologie",
+          "titles": [
+            "Een dag geleid door toeval"
+          ]
+        },
+        {
+          "items": [
+            "Vier zinnen over een AI-regel, met oordeel, reden, voorbeeld en uitzondering of vraag."
+          ],
+          "lesson": "AI-etiquette",
+          "project": "Technologie",
+          "titles": [
+            "Mijn regel voor omgaan met AI"
+          ]
+        },
+        {
+          "items": [
+            "Een dystopisch verhaal van 250-350 woorden met een eigen titel, een lastige keuze en een concreet gevolg.",
+            "Je AI-regel en twee andere ideeën uit eerder projectwerk zijn herkenbaar in de gebeurtenissen.",
+            "Eén passage is zichtbaar verbeterd.",
+            "Lever je netschrift deze les of de volgende les in bij je docent om te laten nakijken."
+          ],
+          "lesson": "De dag waarop kiezen verboden werd",
+          "project": "Technologie",
+          "titles": [
+            "Mijn toekomstverhaal"
+          ]
+        },
+        {
+          "items": [
+            "Mijn smaak: twee interesses of verhaalvoorkeuren en één persoonlijk voorbeeld.",
+            "Een tip: een titel of zoekrichting van mijn partner, met de reden achter de tip.",
+            "Mijn reactie: dit wil ik wel / niet proberen, omdat …"
+          ],
+          "lesson": "Leesmeters 1 - Jouw verhaal, onze boekentips",
+          "project": "Leesmeters",
+          "titles": [
+            "Mijn leessmaak",
+            "Een boekentip voor mij"
+          ]
+        },
+        {
+          "items": [
+            "Groepje en terugafspraak genoteerd.",
+            "Tipgever géén klasgenoot: naam + paraaf; aanrader + 3-5 steekwoorden.",
+            "Flapdetail: 1 eigen zin + 3-5 flapwoorden. Keuze: 1 zin.",
+            "Schoolbiebboek mee terug: geleend met je pasje, inleverdatum genoteerd.",
+            "Geen pasje? Leen met toestemming op een klasgenoots pasje; zet later over naar je eigen pasje."
+          ],
+          "lesson": "Leesmeters 2 - Boekenrace: van tip naar keuze",
+          "project": "Leesmeters",
+          "titles": [
+            "Mijn boekentip en bibliotheekroute"
+          ]
+        },
+        {
+          "items": [
+            "Titelblad: NETSCHRIFT NEDERLANDS, naam, klas en schooljaar.",
+            "Eén pagina inhoudsopgave.",
+            "Tien pagina's leesmeters.",
+            "Daarna begint PROJECTEN.",
+            "Achterin: vier pagina's woordenlijst, daarna grammatica.",
+            "Iedere opdracht begint met een titel en datum."
+          ],
+          "lesson": "Startles 1: Nederlands 4",
+          "project": "Start Nederlands 4",
+          "titles": [
+            "Netschrift Nederlands",
+            "Inhoudsopgave",
+            "Projecten"
+          ]
+        },
+        {
+          "items": [
+            "Titel: Een moment waarop taal ertoe deed.",
+            "Schrijf 150-200 woorden over één concreet taalmoment.",
+            "Laat één verbetering zichtbaar staan en onderstreep je beste zin."
+          ],
+          "lesson": "Les 2 - Maak het van jou",
+          "project": "Start Nederlands 4",
+          "titles": [
+            "Een moment waarop taal ertoe deed"
+          ]
+        },
+        {
+          "items": [
+            "Een paginagroot logo als voorblad voor Leesautobiografie, met duidelijke projecttitel.",
+            "Boekenlijst per leeftijdsfase.",
+            "Mindmap: middencirkel, drie hoofdtakken en minstens drie boektakken.",
+            "Bij elke boektak: twijgjes met wie, waar en gevoel, aangevuld na het gesprek.",
+            "Een leeswens bij STRAKS en een veranderpijl met trefwoorden. Geen lopende tekst."
+          ],
+          "lesson": "Les 1: Mijn leesverleden",
+          "project": "Leesautobiografie",
+          "titles": [
+            "LEESAUTOBIOGRAFIE",
+            "Mijn boekenlijst door de jaren heen",
+            "Ik als lezer"
+          ]
+        },
+        {
+          "items": [
+            "Eén alinea van ongeveer 100-150 woorden over een boek van vroeger en een recenter boek.",
+            "Bij beide boeken: een concrete scène of een detail, jouw reactie en de reden daarvoor.",
+            "Een slotzin over wat hetzelfde bleef of veranderde in je leessmaak."
+          ],
+          "lesson": "Les 2: Mijn rode draad",
+          "project": "Leesautobiografie",
+          "titles": [
+            "Mijn leessmaak: vroeger en nu"
+          ]
+        },
+        {
+          "items": [
+            "Kladversie van 400-500 woorden bewaard in je netschrift.",
+            "Minstens vier boekvoorbeelden met details, reacties en uitleg van jouw leesontwikkeling.",
+            "Persoonlijk begin, alinea’s en een slot met top 3 en leesvraag.",
+            "Je sterkste passage gemarkeerd en één onduidelijke zin verbeterd."
+          ],
+          "lesson": "Les 3: Mijn leesautobiografie schrijven",
+          "project": "Leesautobiografie",
+          "titles": [
+            "Mijn leesautobiografie - eerste versie"
+          ]
+        }
+      ]
+    }
+  ],
+  "schema": 1,
+  "schoolYear": "2026-2027"
+}
