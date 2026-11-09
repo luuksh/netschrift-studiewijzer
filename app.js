@@ -3,6 +3,7 @@ let currentDocument = null, currentRelease = '', checking = false, updatedAt = '
 const statusNode = document.getElementById('status');
 function element(tag, value) { const el = document.createElement(tag); if(value) el.textContent=value; return el; }
 function render() {
+  document.querySelector('footer').textContent='Schooljaar '+currentDocument.schoolYear+' · Alleen werk dat in alle betrokken klassen van jouw leerjaar is behandeld.';
   const grades = currentDocument.grades;
   const selected = new URLSearchParams(location.search).get('leerjaar') || grades[0]?.grade;
   const grade = grades.find(g=>g.grade===selected);
