@@ -5,6 +5,21 @@
       "lessons": [
         {
           "items": [
+            "Een paginagroot logo als voorblad voor Verweggers, met duidelijke projecttitel.",
+            "In mijn schrift staan 15 vakken: ik, 2 ouders, 4 grootouders, 8 overgrootouders.",
+            "Nummers 1-15 en de verbindingen naar beide ouders kloppen.",
+            "Elk vak heeft naam, geb., ovl. en geh.; bekende gegevens zijn ingevuld.",
+            "Onbekend = ?; niet van toepassing = n.v.t. Ik weet wie ik thuis om hulp vraag."
+          ],
+          "lesson": "Les 1: Mijn familie in beeld",
+          "project": "Verweggers",
+          "titles": [
+            "VERWEGGERS",
+            "Mijn kwartierstaat"
+          ]
+        },
+        {
+          "items": [
             "Netschrift bevat leeslog: datum, boek, gelezen bladzijden en een korte leesreactie of vraag."
           ],
           "lesson": "Leesmeters",
