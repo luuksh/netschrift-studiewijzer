@@ -657,6 +657,197 @@
             "Leesautobiografie"
           ]
         }
+      ],
+      "rubrics": [
+        {
+          "calculation": "Cijfer = de punten bij elkaar opgeteld (maximaal 10). Weging 2.",
+          "columns": [
+            "Omschrijving",
+            "Max. punten"
+          ],
+          "project": "Technologie",
+          "rows": [
+            {
+              "cells": [
+                "Proces: je hebt je tijdens de lessen verdiept in AI, de oefenopdrachten serieus gemaakt en bent het experiment aangegaan.",
+                "2"
+              ],
+              "title": "Proces"
+            },
+            {
+              "cells": [
+                "Het begin van het verhaal trekt de lezer meteen mee het verhaal in.",
+                "1"
+              ],
+              "title": "Begin van het verhaal"
+            },
+            {
+              "cells": [
+                "Je hebt het principe van 'show, don’t tell' verwerkt; je boodschap over AI is goed verpakt in het verhaal.",
+                "1"
+              ],
+              "title": "Show, don’t tell"
+            },
+            {
+              "cells": [
+                "De inhoud van het verhaal is goed te volgen.",
+                "2"
+              ],
+              "title": "Inhoud en samenhang"
+            },
+            {
+              "cells": [
+                "Je hebt een eigen stijl, je gebruikt concrete beschrijvingen en beeldspraak.",
+                "2"
+              ],
+              "title": "Eigen stijl"
+            },
+            {
+              "cells": [
+                "Je taalverzorging is op orde (spelling, zinsbouw).",
+                "2"
+              ],
+              "title": "Taalverzorging"
+            }
+          ],
+          "title": "Verhaal AI (technologie)"
+        },
+        {
+          "calculation": "Cijfer = 5 + (aantal G - aantal O) × 5/4. Rond af op één decimaal. Alle onderdelen moeten beoordeeld zijn.",
+          "columns": [
+            "O - Onvoldoende",
+            "V - Voldoende",
+            "G - Goed"
+          ],
+          "project": "Start Nederlands 4",
+          "rows": [
+            {
+              "cells": [
+                "De tekst blijft algemeen; een concreet moment ontbreekt.",
+                "Een moment is herkenbaar, maar situatie of gebeurtenis blijft vaag.",
+                "De tekst beschrijft één concreet taalmoment."
+              ],
+              "title": "Concreet moment"
+            },
+            {
+              "cells": [
+                "Het wordt niet duidelijk waarom taal ertoe deed.",
+                "Het belang van taal wordt genoemd, maar beperkt uitgewerkt.",
+                "De uitwerking maakt begrijpelijk waarom taal er op dit moment toe deed."
+              ],
+              "title": "Betekenis"
+            },
+            {
+              "cells": [
+                "De tekst is moeilijk te volgen of nauwelijks uitgewerkt.",
+                "De hoofdlijn is te volgen; titel, lengte of samenhang vraagt aandacht.",
+                "De tekst van 150-200 woorden is goed te volgen en heeft een titel."
+              ],
+              "title": "Samenhang"
+            },
+            {
+              "cells": [
+                "Een zichtbare verbetering en gemarkeerde beste zin ontbreken.",
+                "Een verbetering of gemarkeerde beste zin is aanwezig.",
+                "Eén verbetering is zichtbaar en de beste zin is onderstreept."
+              ],
+              "title": "Revisie"
+            }
+          ],
+          "title": "Een moment waarop taal ertoe deed"
+        },
+        {
+          "calculation": "Cijfer = 5 + (aantal G - aantal O) × 5/10. Rond af op één decimaal. Alle onderdelen moeten beoordeeld zijn.",
+          "columns": [
+            "O - Onvoldoende",
+            "V - Voldoende",
+            "G - Goed"
+          ],
+          "project": "Leesautobiografie",
+          "rows": [
+            {
+              "cells": [
+                "Je mindmap is vrijwel onbeschreven, de structuur of een verband ontbreekt, in de klas heb je er nauwelijks aan gewerkt.",
+                "Tussen deze twee uitersten.",
+                "Je hebt de verschillende vragen/fases uitgebreid onderzocht (boeken, gevoelens, gebeurtenissen), je hebt woorden bedacht voor/gegeven aan je ontwikkeling. Je hebt doorgevraagd en actief eraan gewerkt in de klas."
+              ],
+              "title": "Proces - mindmap en boekenlijst in netschrift"
+            },
+            {
+              "cells": [
+                "Je vijf zinnen zijn algemeen, vaag of herhalen zichzelf. Ze gaan niet specifiek over jou.",
+                "Je vijf zinnen zeggen iets over jouw ontwikkeling als lezer.",
+                "Je vijf zinnen geven duidelijk de kern aan van je ontwikkeling als lezer."
+              ],
+              "title": "Proces - 5 zinnen"
+            },
+            {
+              "cells": [
+                "Je tekst is enigszins opsommend en is eentonig om te lezen.",
+                "Je ziet dat je vooral bezig bent met informatie overdragen.",
+                "Je hebt geëxperimenteerd met de woorden waarmee of de vorm waarin je het verhaal van jouw leesontwikkeling vertelt. Je tekst is persoonlijk. Je ziet dat je door te schrijven aan het denken bent gezet."
+              ],
+              "title": "Tekst - Eigenheid"
+            },
+            {
+              "cells": [
+                "Je hebt je leesontwikkeling zwak of onvoldoende expliciet beschreven. Je geeft geen voorbeelden.",
+                "Je hebt je leesontwikkeling redelijk duidelijk beschreven en geeft twee voorbeelden.",
+                "Je hebt je leesontwikkeling duidelijk, uitgebreid en expliciet met drie of meer voorbeelden beschreven."
+              ],
+              "title": "Tekst - duidelijkheid"
+            },
+            {
+              "cells": [
+                "Meer dan vijf taalfouten",
+                "Tot vijf taalfouten",
+                "Foutloos"
+              ],
+              "title": "Tekst - taalverzorging (spelling, zinsbouw, grammatica)"
+            },
+            {
+              "cells": [
+                "Je hebt geen duidelijke ontwikkelingsvraag voorbereid/ je vraag is algemeen.",
+                "Je vraag past bij jouw leesontwikkeling.",
+                "Je hebt een vraag gesteld die duidelijk laat zien dat je hebt nagedacht over je ontwikkeling."
+              ],
+              "title": "Gesprek - ontwikkelingsvraag"
+            },
+            {
+              "cells": [
+                "Je stelt geen vragen en geeft de indruk slecht of niet te luisteren.",
+                "Je stelt open vragen en bent geïnteresseerd.",
+                "Je stelt open vragen, vraagt op een natuurlijke manier door en toont interesse."
+              ],
+              "title": "Gesprek - luisteren en doorvragen"
+            },
+            {
+              "cells": [
+                "Je vertelt weinig of onhelder.",
+                "Je vertelt redelijk uitgebreid en helder.",
+                "Je vertelt uitgebreid en weet het publiek te boeien."
+              ],
+              "title": "Spreekvaardigheid"
+            },
+            {
+              "cells": [
+                "Je hebt een ongeïnteresseerde lichaamstaal en straalt weinig activiteit uit bij het gesprek.",
+                "Tussen deze twee uitersten.",
+                "Je laat in mimiek en lichaamstaal zien actief deel te nemen aan het gesprek."
+              ],
+              "title": "Lichaamstaal"
+            },
+            {
+              "cells": [
+                "Je toont weinig reflectie op je bijdrage aan het project en je eigen ontwikkelingsproces.",
+                "Tussen deze twee uitersten.",
+                "Je kunt goed reflecteren op wat dit project je gebracht heeft en je weet wat de vervolgstappen in je leesontwikkeling zijn."
+              ],
+              "title": "Reflectie"
+            }
+          ],
+          "title": "Leesautobiografie & Groepsgesprek 2627"
+        }
       ]
     }
   ],

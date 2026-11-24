@@ -24,6 +24,17 @@ function render() {
     if(lesson.titles.length){const titles=element('p','Titels in je netschrift: '+lesson.titles.join(' · '));titles.className='titles';card.append(titles);}
     const list=element('ul');for(const item of lesson.items)list.append(element('li',item));card.append(list);section.append(card);
   }
+  for(const rubric of grade.rubrics || []) {
+    const section=projects.get(rubric.project);if(!section)continue;
+    const card=element('article');card.className='rubric';
+    card.append(element('h3','Rubric - '+rubric.title));
+    const scroll=element('div');scroll.className='rubric-scroll';scroll.tabIndex=0;scroll.setAttribute('role','region');scroll.setAttribute('aria-label','Rubric '+rubric.project);
+    const table=element('table'),head=element('thead'),heading=element('tr');
+    for(const label of ['Aspect',...rubric.columns]){const th=element('th',label);th.scope='col';heading.append(th);}
+    head.append(heading);table.append(head);const body=element('tbody');
+    for(const row of rubric.rows){const tr=element('tr'),th=element('th',row.title);th.scope='row';tr.append(th);for(const value of row.cells)tr.append(element('td',value));body.append(tr);}
+    table.append(body);scroll.append(table);card.append(scroll,element('p',rubric.calculation));section.append(card);
+  }
 }
 async function refresh(){
   if(checking)return;checking=true;
